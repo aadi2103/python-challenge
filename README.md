@@ -46,7 +46,7 @@ The winner of the election based on popular vote.
 
 My analysis looked similar to the one below:
 
-Election Results
+### Election Results
 -------------------------
 Total Votes: 3521001
 -------------------------
