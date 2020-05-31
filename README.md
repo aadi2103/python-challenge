@@ -1,10 +1,9 @@
-### python-challenge
+### Python-challenge
 Py Me Up, Charlie
 Background
 In this project I utilized the concepts learned to complete two Python Challenges, PyBank and PyPoll. Both of these challenges encompasses a real-world situation where Python scripting skills can come in handy.
 
-PyBank
-Revenue
+### PyBank: Revenue
 
 In this challenge, I created a Python script for analyzing the financial records of a company. I was given a set of financial data called budget_data.csv. The dataset is composed of two columns: Date and Profit/Losses. (Thankfully, the company has rather lax standards for accounting so the records are simple.)
 
