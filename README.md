@@ -1,6 +1,6 @@
 ### Python-challenge
-Py Me Up, Charlie
-Background
+
+### Background
 In this project I utilized the concepts learned to complete two Python Challenges, PyBank and PyPoll. Both of these challenges encompasses a real-world situation where Python scripting skills can come in handy.
 
 ### PyBank: Revenue
