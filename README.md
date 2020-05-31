@@ -1,9 +1,9 @@
 ### Python-challenge
 
-![](Images/revenue-per-lead.png)
-
 ### Background
 In this project I utilized the concepts learned to complete two Python Challenges, PyBank and PyPoll. Both of these challenges encompasses a real-world situation where Python scripting skills can come in handy.
+
+![](Images/revenue-per-lead.png)
 
 ### PyBank: Revenue
 
@@ -23,14 +23,7 @@ The greatest decrease in losses (date and amount) over the entire period
 
 My analysis looked similar to the one below:
 
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
-In addition, my final script printed the analysis to the terminal and exported a text file with the results.
+![](Images/Financial%20Analysis.png)
 
 ### PyPoll: Vote-Counting
 
