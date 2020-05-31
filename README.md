@@ -47,16 +47,16 @@ The winner of the election based on popular vote.
 My analysis looked similar to the one below:
 
 ### Election Results
--------------------------
-Total Votes: 3521001
--------------------------
-Khan: 63.000% (2218231)
-Correy: 20.000% (704200)
-Li: 14.000% (492940)
-O'Tooley: 3.000% (105630)
--------------------------
-Winner: Khan
--------------------------
+### -------------------------
+### Total Votes: 3521001
+### -------------------------
+### Khan: 63.000% (2218231)
+### Correy: 20.000% (704200)
+### Li: 14.000% (492940)
+### O'Tooley: 3.000% (105630)
+### -------------------------
+### Winner: Khan
+### -------------------------
 In addition, the final script printed the analysis to the terminal and exported a text file with the results.
 
 ### BONUS
